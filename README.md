@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Felwin Shaji 👋
 
-<!--
-**Felwin-Shaji/Felwin-Shaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable and modern web applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- TypeScript
+- React
+- MongoDB
+- Clean Architecture
+
+---
+
+## 🚀 Current Projects
+
+### CarryGo
+Smart parcel delivery platform with:
+- Role-based system
+- Worker & Hub management
+- KYC verification
+- Real-time chat
+- Clean Architecture backend
+
+### Kickkrt
+Modern scalable platform currently under development.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Node.js
+- System Design
+- Scalable Backend Architecture
+- Docker & Deployment
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Clean Architecture
+
+Tools:
+- Git
+- Docker
+- Postman
+
+---
+
+## 📈 GitHub Stats
+
+<!-- You can add stats later -->
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/yourusername
